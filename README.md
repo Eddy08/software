@@ -3,6 +3,15 @@ SQL GUI:
   - MYSQL Workbench
   - PostgresSQL Web Login
 
+SQL Database:
+  - H2
+  - MySQL
+  - MSSQL
+
+Database Migration:
+  - Liquibase
+  - SQL Server Data Tools (SSDT) for Visual Studio
+
 Wiki:
   - Wiki.js
 
