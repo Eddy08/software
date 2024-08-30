@@ -17,5 +17,12 @@ Wiki:
 
 K8s:
   - Rancher
+
+Terminals:
+  - sh: git bash
+  - zsh
+  - cmd
   - puTTy
 
+Terminals Tools:
+  - ranger -> nav in terminal 
