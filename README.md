@@ -25,4 +25,12 @@ Terminals:
   - puTTy
 
 Terminals Tools:
-  - ranger -> nav in terminal 
+  - ranger -> nav in terminal
+
+Libraries:
+  - JS
+      - PapaParser
+      - PDF2HTML
+  - Java
+      - Apache Tika
+      - Apache POI
