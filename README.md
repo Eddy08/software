@@ -34,3 +34,8 @@ Libraries:
   - Java
       - Apache Tika
       - Apache POI
+
+Analytics:
+  - Elastic Search
+  - Logstash
+  - Kibana
